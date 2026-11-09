@@ -10,9 +10,9 @@ title: DSC 180A Methodology Assignment 4
 
 **Email:** ftedjarutjianta@ucsd.edu
 
-**Section:** [Your section name]
+**Section:** D27
 
-**Mentor:** [Your mentor's name]
+**Mentor:** Misha Belkin & Tianhao Wang
 
 ## Quarter 2 Project Brainstorming
 
